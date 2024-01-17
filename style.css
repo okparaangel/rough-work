@@ -28,3 +28,8 @@
     width: fit-content;
     text-align: center;
 }
+.box{
+    background-color: brown;
+    height: 50px;
+    width: 100%;
+}
