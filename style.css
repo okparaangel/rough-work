@@ -3,13 +3,28 @@
     height: 50px;
     width: 50px;
     border: none;
+    justify-content: center;
 }
 .box2{
     color: yellowgreen;
 
 }
-.bus{
-    background-image: url(image/sec4-image.jpg);
+.bus00{
+    background-image: url(image/anambra\ man.PNG);
     width: 100%;
     height: 500px;
+}
+.links{
+    justify-content: center;
+    text-align: center;
+}
+.bus01{
+    height: fit-content;
+    width: fit-content;
+    text-decoration-color: brown;
+}
+.text{
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
 }
